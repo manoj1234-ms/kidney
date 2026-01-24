@@ -20,4 +20,4 @@ gdown
 -e .
 
 
-# use conda activate kidney310
+# use  conda activate kidney310
